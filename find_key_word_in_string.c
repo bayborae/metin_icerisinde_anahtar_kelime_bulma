@@ -1,3 +1,4 @@
+//TELEGRAM : https://t.me/tempestas_73
 #include <stdio.h>//standart input/output
 #include <string.h>//strings
 
